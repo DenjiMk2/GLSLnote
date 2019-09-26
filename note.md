@@ -8,3 +8,4 @@ http://jp.wgld.org/js4kintro/editor/
 # 学習方法
 https://thebookofshaders.com/?lan=jp
 とりあえずQiitaをめぐるのと同時にこれを読んでいきたい。
+ディレクトリは./TheBookOfShaders/
